@@ -1,0 +1,19 @@
+"Inquinante:";"ozono"
+"Elaborazione:";"superamenti max media 8 ore"
+"Unita' di misura";"giorni"
+"Copertura spaziale:";"Emilia-Romagna"
+"Copertura temporale:";"2001-2014"
+"Tipologia di stazione:";"tutte le stazioni regionali di fondo, divise per tipologia"
+"tipologia";"descrizione";"anno.2001";"anno.2002";"anno.2003";"anno.2004";"anno.2005";"anno.2006";"anno.2007";"anno.2008";"anno.2009";"anno.2010";"anno.2011";"anno.2012";"anno.2013";"anno.2014"
+"fondo urbano";"minimo tra le stazioni";19;14;25;14;26;16;21;9;6;9;4;1;3;10
+"fondo urbano";"mediana tra le stazioni";54;24;61;42;49;47,5;43,5;43,5;36;22,5;68;52,5;60;23
+"fondo urbano";"massimo tra le stazioni";71;62;86;81;66;64;80;59;64;55;89;74;75;62
+"fondo urbano";"n.stazioni valide";7;7;7;7;7;8;8;8;9;10;10;10;9;11
+"fondo suburbano";"minimo tra le stazioni";n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;36;34;15;9;0;10;0;18
+"fondo suburbano";"mediana tra le stazioni";n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;36;40;45;39;73;60;48;26
+"fondo suburbano";"massimo tra le stazioni";n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;36;41;54;51;88;70;70;46
+"fondo suburbano";"n.stazioni valide";0;0;0;0;0;0;1;3;5;8;9;9;9;9
+"fondo rurale";"minimo tra le stazioni";54;0;8;57;49;69;43;2;2;15;20;12;5;2
+"fondo rurale";"mediana tra le stazioni";68;27;58;68,5;51;90;57;47;62;40;63;62;42,5;21,5
+"fondo rurale";"massimo tra le stazioni";82;54;108;80;52;121;67;80;76;83;94;81;77;53
+"fondo rurale";"n.stazioni valide";2;2;2;2;3;3;3;9;10;13;13;14;14;14

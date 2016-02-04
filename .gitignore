@@ -2,4 +2,5 @@
 .Rhistory
 .RData
 old/
-img/
+img/*.jpg
+img/*/*.jpg

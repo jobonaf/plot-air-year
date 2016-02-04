@@ -1,0 +1,19 @@
+"Inquinante:";"PM10"
+"Elaborazione:";"superamenti giornalieri"
+"Unita' di misura";"giorni"
+"Copertura spaziale:";"Emilia-Romagna"
+"Copertura temporale:";"2001-2015"
+"Tipologia di stazione:";"tutte le stazioni regionali (escluse industriali), divise per tipologia"
+"tipologia";"descrizione";"anno.2001";"anno.2002";"anno.2003";"anno.2004";"anno.2005";"anno.2006";"anno.2007";"anno.2008";"anno.2009";"anno.2010";"anno.2011";"anno.2012";"anno.2013";"anno.2014";"anno.2015"
+"traffico";"minimo tra le stazioni";n.d.;94;91;56;52;46;19;38;30;35;44;38;19;15;19
+"traffico";"mediana tra le stazioni";n.d.;94;102;79;79;88;91,5;73;56;59;72;73;51;32;50
+"traffico";"massimo tra le stazioni";n.d.;94;113;106;100;130;122;112;79;79;96;115;80;61;67
+"traffico";"n.stazioni valide";0;1;2;3;3;5;8;8;8;11;11;11;11;12;12
+"fondo urbano/suburbano";"minimo tra le stazioni";n.d.;134;115;100;99;36;15;27;28;24;23;8;4;8;11
+"fondo urbano/suburbano";"mediana tra le stazioni";n.d.;134;124;100;104,5;58;66;55;38,5;44;52;47;26;23;32
+"fondo urbano/suburbano";"massimo tra le stazioni";n.d.;134;133;100;110;90;114;90;69;65;86;85;48;44;55
+"fondo urbano/suburbano";"n.stazioni valide";0;1;2;1;2;5;5;7;10;18;19;21;21;19;21
+"fondo rurale";"minimo tra le stazioni";n.d.;27;16;12;3;2;n.d.;0;0;1;0;0;0;0;0
+"fondo rurale";"mediana tra le stazioni";n.d.;27;16;12;7;2;n.d.;0;26;28;28,5;4;3;5;4,5
+"fondo rurale";"massimo tra le stazioni";n.d.;27;16;12;11;2;n.d.;0;52;53;72;64;31;33;49
+"fondo rurale";"n.stazioni valide";0;1;1;1;2;1;0;1;2;5;6;9;9;9;10

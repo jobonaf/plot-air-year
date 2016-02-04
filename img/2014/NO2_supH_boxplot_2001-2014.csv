@@ -1,0 +1,19 @@
+"Inquinante:";"biossido di azoto"
+"Elaborazione:";"superamenti orari"
+"Unita' di misura";"ore"
+"Copertura spaziale:";"Emilia-Romagna"
+"Copertura temporale:";"2001-2014"
+"Tipologia di stazione:";"tutte le stazioni regionali (escluse industriali), divise per tipologia"
+"tipologia";"descrizione";"anno.2001";"anno.2002";"anno.2003";"anno.2004";"anno.2005";"anno.2006";"anno.2007";"anno.2008";"anno.2009";"anno.2010";"anno.2011";"anno.2012";"anno.2013";"anno.2014"
+"traffico";"minimo tra le stazioni";0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"traffico";"mediana tra le stazioni";0,5;0,5;1;1;0;0;0;0;0;0;0;0;0;0
+"traffico";"massimo tra le stazioni";22;54;21;14;11;54;16;12;4;3;8;5;4;0
+"traffico";"n.stazioni valide";8;8;9;9;9;10;11;11;11;11;11;11;11;12
+"fondo urbano/suburbano";"minimo tra le stazioni";0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"fondo urbano/suburbano";"mediana tra le stazioni";0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"fondo urbano/suburbano";"massimo tra le stazioni";8;2;1;2;13;2;6;9;0;5;3;0;0;0
+"fondo urbano/suburbano";"n.stazioni valide";9;10;9;9;12;12;13;17;19;22;22;22;21;21
+"fondo rurale";"minimo tra le stazioni";0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"fondo rurale";"mediana tra le stazioni";4;11;4,5;0;0;0;0;0;0;0;0;0;0;0
+"fondo rurale";"massimo tra le stazioni";8;22;9;10;0;1;0;0;0;0;0;0;0;0
+"fondo rurale";"n.stazioni valide";2;2;2;3;3;3;3;10;10;13;14;14;14;15

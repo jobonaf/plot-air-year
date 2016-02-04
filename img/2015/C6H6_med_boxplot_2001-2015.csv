@@ -1,0 +1,15 @@
+"Inquinante:";"benzene"
+"Elaborazione:";"media annua"
+"Unita' di misura";"microgrammi/metro cubo"
+"Copertura spaziale:";"Emilia-Romagna"
+"Copertura temporale:";"2001-2015"
+"Tipologia di stazione:";"tutte le stazioni regionali (escluse industriali), divise per tipologia"
+"tipologia";"descrizione";"anno.2001";"anno.2002";"anno.2003";"anno.2004";"anno.2005";"anno.2006";"anno.2007";"anno.2008";"anno.2009";"anno.2010";"anno.2011";"anno.2012";"anno.2013";"anno.2014";"anno.2015"
+"traffico";"minimo tra le stazioni";4,8;3,9;2,2;2,3;7,1;2;1,4;1,1;1,4;1,2;1,1;1;1;0,9;1
+"traffico";"mediana tra le stazioni";6,05;5,4;2,75;2,4;7,1;2,7;2,7;1,5;1,4;1,45;1,5;1,4;1,4;1,15;1,4
+"traffico";"massimo tra le stazioni";7,3;6,9;3,3;4,5;7,1;3,7;3,4;3,5;1,6;1,7;2,5;2,3;2,3;1,8;1,9
+"traffico";"n.stazioni valide";2;2;2;3;1;3;5;5;3;8;10;10;10;10;11
+"fondo urbano/suburbano";"minimo tra le stazioni";n.d.;2,2;2,5;1,1;1,6;2,1;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.
+"fondo urbano/suburbano";"mediana tra le stazioni";n.d.;2,2;2,5;1,1;1,6;2,1;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.
+"fondo urbano/suburbano";"massimo tra le stazioni";n.d.;2,2;2,5;1,1;1,6;2,1;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;n.d.
+"fondo urbano/suburbano";"n.stazioni valide";0;1;1;1;1;1;0;0;0;0;0;0;0;0;0

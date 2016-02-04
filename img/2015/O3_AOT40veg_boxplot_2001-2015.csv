@@ -1,0 +1,19 @@
+"Inquinante:";"ozono"
+"Elaborazione:";"AOT40, valore bersaglio per la protezione della vegetazione"
+"Unita' di misura";"microgrammi/metro cubo per ora"
+"Copertura spaziale:";"Emilia-Romagna"
+"Copertura temporale:";"2001-2015"
+"Tipologia di stazione:";"tutte le stazioni regionali di fondo, divise per tipologia"
+"tipologia";"descrizione";"anno.2001";"anno.2002";"anno.2003";"anno.2004";"anno.2005";"anno.2006";"anno.2007";"anno.2008";"anno.2009";"anno.2010";"anno.2011";"anno.2012";"anno.2013";"anno.2014";"anno.2015"
+"fondo urbano";"minimo tra le stazioni";24794;14418;21069;17012;27487;20809;15930;11715;7172;13309;5247;3363;5020;16290;21807
+"fondo urbano";"mediana tra le stazioni";30736,5;19637,5;35213,5;31078,5;37627;32229;27105;25048,5;24632;25645,5;28927;26448,5;30344;22679;31100
+"fondo urbano";"massimo tra le stazioni";36749;32354;45194;38810;43862;41508;38618;33283;32916;35325;34338;35177;38608;39779;42822
+"fondo urbano";"n.stazioni valide";6;6;6;6;5;5;6;6;5;8;10;10;8;11;10
+"fondo suburbano";"minimo tra le stazioni";n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;23984;18563;12546;14186;4806;15135;23844;19444;27354
+"fondo suburbano";"mediana tra le stazioni";n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;23984;22538;23793;26366,5;28991;29771;26830;25393;35247,5
+"fondo suburbano";"massimo tra le stazioni";n.d.;n.d.;n.d.;n.d.;n.d.;n.d.;23984;22895;35225;32984;35348;35803;31451;34097;44499
+"fondo suburbano";"n.stazioni valide";0;0;0;0;0;0;1;3;5;8;9;9;7;9;8
+"fondo rurale";"minimo tra le stazioni";n.d.;35269;59373;27973;29897;43347;32487;9707;6954;16286;13737;6751;6879;2491;7403
+"fondo rurale";"mediana tra le stazioni";n.d.;35269;59373;32793,5;33263,5;43923;33334,5;24202;34639,5;27496;28963,5;30647;24150,5;24506;29941
+"fondo rurale";"massimo tra le stazioni";n.d.;35269;59373;37614;36630;56503;34182;36035;40122;43045;38837;41170;39359;34350;43651
+"fondo rurale";"n.stazioni valide";0;1;1;2;2;3;2;4;8;12;12;13;14;13;14
